@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: #1E1E1E;
+}
+
+header {
+  width: 100%;
+  
+}
+
+.container {
+  margin: 20px 210px 0;
+}
+
+a.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  
+
+}
+
+header .navigation {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+
+header ul {
+  list-style: none;
+  text-decoration: none;
+  display: flex;
+  gap: 40px;
+  
+}
+
+.btn-menu {
+  display: none;
+}
+
+.hero-text .hat-title {
+  padding: 5px 15px;
+  border: 1px solid #1E1E1E;
+}
+  
+  
