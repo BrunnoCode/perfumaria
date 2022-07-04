@@ -125,7 +125,9 @@ header ul {
   text-align: center;
   align-items: center;
   position: absolute;
-  width: fit-content;
+  width: 208px;
+  padding: 20px;
+  height: 101px;
   left: 0;
   bottom: 110px;
   padding: 20px;
